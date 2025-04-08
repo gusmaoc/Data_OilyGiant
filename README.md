@@ -1,0 +1,1 @@
+O projeto analisou três regiões para o desenvolvimento de novos poços de petróleo, utilizando regressão linear para prever o volume de reservas e a técnica de Bootstrapping para avaliar lucros e riscos. Os principais pontos são:
